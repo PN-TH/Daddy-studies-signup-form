@@ -1,5 +1,6 @@
 export interface SignUp {
-  title: string;
+  schoolName: string;
+  logo: string;
   firstname: string;
   lastname: string;
   email: string;
